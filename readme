@@ -1,0 +1,2 @@
+Basic implementations of the 'URLClassLoader'
+and a custom ClassLoader which loads classes from MySQL
