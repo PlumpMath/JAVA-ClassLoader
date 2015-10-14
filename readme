@@ -1,2 +1,5 @@
-Basic implementations of the 'URLClassLoader'
-and a custom ClassLoader which loads classes from MySQL
+Basic implementations of the 
+- 'URLClassLoader'
+-  a custom ClassLoader which loads classes from MySQL
+-  loading classes using external config file and the Factory Pattern
+
